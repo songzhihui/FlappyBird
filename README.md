@@ -8,6 +8,6 @@ FlappyBird
 Eclipse版本:4.4.1
 Libgdx版本:1.4.1
 Gradle版本:2.1
-![image](https://github.com/sonzhihui/FlappyBird/blob/master/ScreenShots/1.png)
+
 ![image](https://github.com/sonzhihui/FlappyBird/blob/master/ScreenShots/2.png)
 ![image](https://github.com/sonzhihui/FlappyBird/blob/master/ScreenShots/3.png)
